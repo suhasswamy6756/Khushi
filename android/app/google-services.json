@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "552166061659",
+    "project_id": "kushi-phy-3fa43",
+    "storage_bucket": "kushi-phy-3fa43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552166061659:android:fc734f26078c15edec317e",
+        "android_client_info": {
+          "package_name": "com.example.kushi_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552166061659-7hpdnonvaum41hvevkr3gmp7g7q3kpe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kushi_3",
+            "certificate_hash": "07a662127f996362880c955d2871cfa8ddeca29a"
+          }
+        },
+        {
+          "client_id": "552166061659-llufpsnsv6afoqdj614e5fgdab6mqqg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqXbYpVfOS6n3w-QR0s62GK13c3w4j5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552166061659-llufpsnsv6afoqdj614e5fgdab6mqqg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552166061659-261ttkrm6ctqtae2fa8b6ftjols5k75k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kushi3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552166061659:android:77bc64e14adfc119ec317e",
+        "android_client_info": {
+          "package_name": "com.physical.khushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552166061659-llufpsnsv6afoqdj614e5fgdab6mqqg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqXbYpVfOS6n3w-QR0s62GK13c3w4j5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552166061659-llufpsnsv6afoqdj614e5fgdab6mqqg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552166061659-261ttkrm6ctqtae2fa8b6ftjols5k75k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kushi3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
